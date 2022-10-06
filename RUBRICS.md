@@ -29,5 +29,5 @@
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)| Auto | Done |
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| Auto | Done |
 |Evidence that the members of the team are working across multiple places in the code base| Auto | Done |
-|Short release cycles | All | Done |
+|Short release cycles | All |  |
 |Software Sustainbility Evaluation | All |  |
